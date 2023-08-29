@@ -1,0 +1,28 @@
+C:\Users\Muzamil Ahmad\source\repos\Tour Management System\Tour Management System\bin\Debug\netcoreapp3.1\Tour Management System.exe
+C:\Users\Muzamil Ahmad\source\repos\Tour Management System\Tour Management System\bin\Debug\netcoreapp3.1\Tour Management System.deps.json
+C:\Users\Muzamil Ahmad\source\repos\Tour Management System\Tour Management System\bin\Debug\netcoreapp3.1\Tour Management System.runtimeconfig.json
+C:\Users\Muzamil Ahmad\source\repos\Tour Management System\Tour Management System\bin\Debug\netcoreapp3.1\Tour Management System.runtimeconfig.dev.json
+C:\Users\Muzamil Ahmad\source\repos\Tour Management System\Tour Management System\bin\Debug\netcoreapp3.1\Tour Management System.dll
+C:\Users\Muzamil Ahmad\source\repos\Tour Management System\Tour Management System\bin\Debug\netcoreapp3.1\Tour Management System.pdb
+C:\Users\Muzamil Ahmad\source\repos\Tour Management System\Tour Management System\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\Muzamil Ahmad\source\repos\Tour Management System\Tour Management System\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Muzamil Ahmad\source\repos\Tour Management System\Tour Management System\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Muzamil Ahmad\source\repos\Tour Management System\Tour Management System\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Muzamil Ahmad\source\repos\Tour Management System\Tour Management System\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Muzamil Ahmad\source\repos\Tour Management System\Tour Management System\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Muzamil Ahmad\source\repos\Tour Management System\Tour Management System\obj\Debug\netcoreapp3.1\Tour Management System.csproj.AssemblyReference.cache
+C:\Users\Muzamil Ahmad\source\repos\Tour Management System\Tour Management System\obj\Debug\netcoreapp3.1\Tour_Management_System.DashBoard.resources
+C:\Users\Muzamil Ahmad\source\repos\Tour Management System\Tour Management System\obj\Debug\netcoreapp3.1\Tour_Management_System.Login.resources
+C:\Users\Muzamil Ahmad\source\repos\Tour Management System\Tour Management System\obj\Debug\netcoreapp3.1\Tour_Management_System.Signup.resources
+C:\Users\Muzamil Ahmad\source\repos\Tour Management System\Tour Management System\obj\Debug\netcoreapp3.1\Tour_Management_System.UpdateForm.resources
+C:\Users\Muzamil Ahmad\source\repos\Tour Management System\Tour Management System\obj\Debug\netcoreapp3.1\Tour Management System.csproj.GenerateResource.cache
+C:\Users\Muzamil Ahmad\source\repos\Tour Management System\Tour Management System\obj\Debug\netcoreapp3.1\Tour Management System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Muzamil Ahmad\source\repos\Tour Management System\Tour Management System\obj\Debug\netcoreapp3.1\Tour Management System.AssemblyInfoInputs.cache
+C:\Users\Muzamil Ahmad\source\repos\Tour Management System\Tour Management System\obj\Debug\netcoreapp3.1\Tour Management System.AssemblyInfo.cs
+C:\Users\Muzamil Ahmad\source\repos\Tour Management System\Tour Management System\obj\Debug\netcoreapp3.1\Tour Management System.csproj.CoreCompileInputs.cache
+C:\Users\Muzamil Ahmad\source\repos\Tour Management System\Tour Management System\obj\Debug\netcoreapp3.1\Tour Management System.csproj.CopyComplete
+C:\Users\Muzamil Ahmad\source\repos\Tour Management System\Tour Management System\obj\Debug\netcoreapp3.1\Tour Management System.dll
+C:\Users\Muzamil Ahmad\source\repos\Tour Management System\Tour Management System\obj\Debug\netcoreapp3.1\Tour Management System.pdb
+C:\Users\Muzamil Ahmad\source\repos\Tour Management System\Tour Management System\obj\Debug\netcoreapp3.1\Tour Management System.genruntimeconfig.cache
+C:\Users\Muzamil Ahmad\source\repos\Tour Management System\Tour Management System\obj\Debug\netcoreapp3.1\Tour_Management_System.UserDashboard.resources
+C:\Users\Muzamil Ahmad\source\repos\Tour Management System\Tour Management System\obj\Debug\netcoreapp3.1\Tour_Management_System.Properties.Resources.resources
